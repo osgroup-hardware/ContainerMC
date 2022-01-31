@@ -14,3 +14,12 @@ BoM
 6. Fans X
 7. Fan Cover x1
 8. Lighting x2
+
+CAD Model:
+https://grabcad.com/library/mining-data-center-200-kw-asics-1
+
+Video:
+https://youtu.be/q7qz2o9v45E
+
+Contact:
+karl@cloudnautic.io
